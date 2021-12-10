@@ -85,6 +85,12 @@ L____________ 5v
 
 Chips ID: U7, U8, U3
 
+### U7
+
+### U8
+
+### U3
+
 ### Logic Pin Map
 
 | RGB Driver Pin | Pin  | Identifier |
@@ -102,7 +108,7 @@ Chips ID: U7, U8, U3
 
 ## Keys
 
-### Horizontal
+### Horizontal a.k.a the scan points
 
 | Layer | Pin  |
 | ----- | ---- |
@@ -112,18 +118,18 @@ Chips ID: U7, U8, U3
 | L4    | 12   |
 | L5    | 13   |
 
-### Vertial (From Logo to right)
+### Vertial (From Logo to right) a.k.a the 
 
 | Layer | Pin  |
 | ----- | ---- |
 | L1    | 55   |
 | L2    | 51   |
-|       |      |
-|       |      |
-|       |      |
-|       |      |
-|       |      |
-|       |      |
-|       |      |
-|       |      |
+| L3    |      |
+| L4    |      |
+| L5    |      |
+| L6    |      |
+| L7    |      |
+| L8    |      |
+| L9    |      |
+| L10   |      |
 
