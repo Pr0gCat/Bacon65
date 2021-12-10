@@ -1,5 +1,9 @@
 # Analysis
 
+## Power Consume
+
+Max: 500mA
+
 
 
 ## Components
@@ -9,6 +13,8 @@
 | Flash      | `GD25Q40CT`            |
 | MCU        | `Nuvoton NUC123SD4AN0` |
 | RGB Driver | `MB15042GP`            |
+
+
 
 ## IOs
 
