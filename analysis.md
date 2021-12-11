@@ -108,7 +108,9 @@ Chips ID: U7, U8, U3
 
 ## Keys
 
-### Horizontal a.k.a the scan points
+![switch_wiring](C:\Users\LTY\Desktop\Becon65\switch_wiring.jpg)
+
+### Horizontal A.K.A the scan points
 
 | Layer | Pin  |
 | ----- | ---- |
@@ -118,16 +120,16 @@ Chips ID: U7, U8, U3
 | L4    | 12   |
 | L5    | 13   |
 
-### Vertial (From Logo to right) a.k.a the 
+### Vertical (From Logo to right) A.K.A the 
 
 | Layer | Pin  |
 | ----- | ---- |
-| L1    | 55   |
-| L2    | 51   |
-| L3    |      |
-| L4    |      |
-| L5    |      |
-| L6    |      |
+| L1    | 56   |
+| L2    | 52   |
+| L3    | 51   |
+| L4    | 49   |
+| L5    | 45   |
+| L6    | 44   |
 | L7    |      |
 | L8    |      |
 | L9    |      |
