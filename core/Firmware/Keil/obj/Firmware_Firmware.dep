@@ -1,0 +1,34 @@
+Dependencies for Project 'Firmware', Target 'Firmware': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (..\..\..\Library\Device\Nuvoton\NUC123\Source\ARM\startup_NUC123.s)(0x00000000)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --16 --apcs=interwork --pd "__MICROLIB SETA 1"-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 536"--list .\lst\startup_nuc123.lst --xref -o .\obj\startup_nuc123.o --depend .\obj\startup_nuc123.d)
+F (..\..\..\Library\Device\Nuvoton\NUC123\Source\system_NUC123.c)(0x00000000)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I ..\..\Library\CMSIS\Include -I ..\..\Library\Device\Nuvoton\NUC123\Include -I ..\..\Library\StdDriver\inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="536"-o .\obj\system_nuc123.o --list_dir ".\\lst\\" --list --omf_browse .\obj\system_nuc123.crf --depend .\obj\system_nuc123.d)
+F (..\main.c)(0x6007DA12)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I ..\..\Library\CMSIS\Include -I ..\..\Library\Device\Nuvoton\NUC123\Include -I ..\..\Library\StdDriver\inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="536"-o .\obj\main.o --list_dir ".\\lst\\" --list --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x60252374)
+I (..\..\Library\Device\Nuvoton\NUC123\Include\NUC123.h)(0x6007D9D8)
+I (..\..\Library\CMSIS\Include\core_cm0.h)(0x6007D9D7)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (..\..\Library\CMSIS\Include\core_cmInstr.h)(0x6007D9D7)
+I (..\..\Library\CMSIS\Include\cmsis_armcc.h)(0x6007D9D7)
+I (..\..\Library\CMSIS\Include\core_cmFunc.h)(0x6007D9D7)
+I (..\..\Library\Device\Nuvoton\NUC123\Include\system_NUC123.h)(0x6007D9D8)
+I (..\..\Library\StdDriver\inc\sys.h)(0x6007D9D8)
+I (..\..\Library\StdDriver\inc\adc.h)(0x6007D9D8)
+I (..\..\Library\StdDriver\inc\fmc.h)(0x6007D9D8)
+I (..\..\Library\StdDriver\inc\gpio.h)(0x6007D9D8)
+I (..\..\Library\StdDriver\inc\i2c.h)(0x6007D9D8)
+I (..\..\Library\StdDriver\inc\pwm.h)(0x6007D9D8)
+I (..\..\Library\StdDriver\inc\spi.h)(0x6007D9D8)
+I (..\..\Library\StdDriver\inc\timer.h)(0x6007D9D8)
+I (..\..\Library\StdDriver\inc\wdt.h)(0x6007D9D8)
+I (..\..\Library\StdDriver\inc\wwdt.h)(0x6007D9D8)
+I (..\..\Library\StdDriver\inc\uart.h)(0x6007D9D8)
+I (..\..\Library\StdDriver\inc\i2s.h)(0x6007D9D8)
+I (..\..\Library\StdDriver\inc\usbd.h)(0x6007D9D8)
+I (..\..\Library\StdDriver\inc\pdma.h)(0x6007D9D8)
+I (..\..\Library\StdDriver\inc\ps2.h)(0x6007D9D8)
+I (..\..\Library\StdDriver\inc\clk.h)(0x6007D9D8)
+I (..\..\Library\StdDriver\inc\crc.h)(0x6007D9D8)
+F (..\..\..\Library\StdDriver\src\retarget.c)(0x00000000)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I ..\..\Library\CMSIS\Include -I ..\..\Library\Device\Nuvoton\NUC123\Include -I ..\..\Library\StdDriver\inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="536"-o .\obj\retarget.o --list_dir ".\\lst\\" --list --omf_browse .\obj\retarget.crf --depend .\obj\retarget.d)
+F (..\..\..\Library\StdDriver\src\uart.c)(0x00000000)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I ..\..\Library\CMSIS\Include -I ..\..\Library\Device\Nuvoton\NUC123\Include -I ..\..\Library\StdDriver\inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="536"-o .\obj\uart.o --list_dir ".\\lst\\" --list --omf_browse .\obj\uart.crf --depend .\obj\uart.d)
+F (..\..\..\Library\StdDriver\src\sys.c)(0x00000000)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I ..\..\Library\CMSIS\Include -I ..\..\Library\Device\Nuvoton\NUC123\Include -I ..\..\Library\StdDriver\inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="536"-o .\obj\sys.o --list_dir ".\\lst\\" --list --omf_browse .\obj\sys.crf --depend .\obj\sys.d)
+F (..\..\..\Library\StdDriver\src\clk.c)(0x00000000)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I ..\..\Library\CMSIS\Include -I ..\..\Library\Device\Nuvoton\NUC123\Include -I ..\..\Library\StdDriver\inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="536"-o .\obj\clk.o --list_dir ".\\lst\\" --list --omf_browse .\obj\clk.crf --depend .\obj\clk.d)

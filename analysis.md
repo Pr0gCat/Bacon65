@@ -87,7 +87,45 @@ Chips ID: U7, U8, U3
 
 ### U7
 
+### Logic Pin Map
+
+| RGB Driver Pin | Pin  | Identifier |
+| -------------- | ---- | ---------- |
+| SDI            | 2    |            |
+| DCLK           | 53   |            |
+| LE             | 52   |            |
+| R-EXT          |      |            |
+| SDO            |      |            |
+| GCLK           |      |            |
+
+### IO Pin Map
+
+| Pin  | Channel(R/G/B) | Horizontal Layer | Vertical Layer |
+| ---- | -------------- | ---------------- | -------------- |
+|      |                |                  |                |
+
+
+
 ### U8
+
+### Logic Pin Map
+
+| RGB Driver Pin | Pin  | Identifier |
+| -------------- | ---- | ---------- |
+| SDI            | 3    |            |
+| DCLK           | 53   |            |
+| LE             | 52   |            |
+| R-EXT          |      |            |
+| SDO            |      |            |
+| GCLK           |      |            |
+
+### IO Pin Map
+
+| Pin  | Channel(R/G/B) | Horizontal Layer | Vertical Layer |
+| ---- | -------------- | ---------------- | -------------- |
+|      |                |                  |                |
+
+
 
 ### U3
 
@@ -95,14 +133,18 @@ Chips ID: U7, U8, U3
 
 | RGB Driver Pin | Pin  | Identifier |
 | -------------- | ---- | ---------- |
-| SDI            |      |            |
-| DCLK           |      |            |
-| LE             |      |            |
+| SDI            | 1    |            |
+| DCLK           | 53   |            |
+| LE             | 52   |            |
 | R-EXT          |      |            |
 | SDO            |      |            |
 | GCLK           |      |            |
 
 ### IO Pin Map
+
+| Pin  | Channel(R/G/B) | Horizontal Layer | Vertical Layer |
+| ---- | -------------- | ---------------- | -------------- |
+|      |                |                  |                |
 
 
 
@@ -130,8 +172,13 @@ Chips ID: U7, U8, U3
 | L4    | 49   |
 | L5    | 45   |
 | L6    | 44   |
-| L7    |      |
-| L8    |      |
-| L9    |      |
-| L10   |      |
+| L7    | 41   |
+| L8    | 40   |
+| L9    | 39   |
+| L10   | 37   |
+| L11   | 36   |
+| L12   | 35   |
+| L13   | 34   |
+| L14   | 32   |
+| L15   | 31   |
 
