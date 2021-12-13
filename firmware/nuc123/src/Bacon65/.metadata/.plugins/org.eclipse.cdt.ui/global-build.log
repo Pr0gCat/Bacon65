@@ -1,0 +1,12 @@
+17:11:38 **** Incremental Build of configuration Release for project GCC ****
+make all 
+Invoking: Cross ARM GNU Create Flash Image
+arm-none-eabi-objcopy -O binary "GCC.elf"  "GCC.bin"
+Finished building: GCC.bin
+ 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "GCC.elf"
+   text	   data	    bss	    dec	    hex	filename
+   5648	    156	     44	   5848	   16d8	GCC.elf
+Finished building: GCC.siz
+ 

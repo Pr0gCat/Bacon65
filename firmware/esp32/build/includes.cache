@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\LTY\\AppData\\Local\\Arduino15\\packages\\m5stack\\hardware\\esp32\\2.0.0\\cores\\esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\LTY\\AppData\\Local\\Arduino15\\packages\\m5stack\\hardware\\esp32\\2.0.0\\variants\\m5stick_c"
+  },
+  {
+    "Sourcefile": "c:\\Users\\LTY\\Desktop\\Bacon65\\firmware\\esp32\\build\\sketch\\esp32.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
