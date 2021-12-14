@@ -15,7 +15,6 @@ arm-none-eabi-size --format=berkeley "Becon65.elf"
    5648	    156	     44	   5848	   16d8	Becon65.elf
 Finished building: Becon65.siz
  
-08:28:16 **** Clean-only build of configuration Release for project GCC ****
-make clean 
-rm -rf  ./User/main.o  ./Library/Library/adc.o ./Library/Library/clk.o ./Library/Library/crc.o ./Library/Library/fmc.o ./Library/Library/gpio.o ./Library/Library/i2c.o ./Library/Library/pdma.o ./Library/Library/pwm.o ./Library/Library/retarget.o ./Library/Library/spi.o ./Library/Library/sys.o ./Library/Library/timer.o ./Library/Library/uart.o ./Library/Library/usbd.o ./Library/Library/wdt.o ./Library/Library/wwdt.o  ./CMSIS/CMSIS/gcc/_syscalls.o ./CMSIS/CMSIS/gcc/startup_NUC123.o  ./CMSIS/CMSIS/system_NUC123.o  Becon65.bin  Becon65.siz  ./CMSIS/CMSIS/gcc/startup_NUC123.d  ./User/main.d  ./Library/Library/adc.d ./Library/Library/clk.d ./Library/Library/crc.d ./Library/Library/fmc.d ./Library/Library/gpio.d ./Library/Library/i2c.d ./Library/Library/pdma.d ./Library/Library/pwm.d ./Library/Library/retarget.d ./Library/Library/spi.d ./Library/Library/sys.d ./Library/Library/timer.d ./Library/Library/uart.d ./Library/Library/usbd.d ./Library/Library/wdt.d ./Library/Library/wwdt.d  ./CMSIS/CMSIS/gcc/_syscalls.d  ./CMSIS/CMSIS/system_NUC123.d  Becon65.elf
- 
+
+08:25:09 Build Finished (took 1s.41ms)
+
