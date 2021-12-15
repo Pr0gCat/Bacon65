@@ -1,0 +1,20 @@
+#include <stdio.h>
+#include "NUC123.h"
+
+
+void SYS_Init(void)
+{
+    SystemCoreClockUpdate();
+}
+
+
+int main()
+{
+
+    /* Unlock protected registers */
+    SYS_UnlockReg();
+    SYS_Init();
+    /* Lock protected registers */
+    SYS_LockReg();
+
+}

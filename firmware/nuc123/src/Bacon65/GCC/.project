@@ -54,6 +54,16 @@
 			<type>1</type>
 			<locationURI>PARENT-1-PROJECT_LOC/main.c</locationURI>
 		</link>
+		<link>
+			<name>User/utils.c</name>
+			<type>1</type>
+			<locationURI>WORKSPACE_LOC/utils.c</locationURI>
+		</link>
+		<link>
+			<name>User/utils.h</name>
+			<type>1</type>
+			<locationURI>WORKSPACE_LOC/utils.h</locationURI>
+		</link>
 	</linkedResources>
 	<filteredResources>
 		<filter>
