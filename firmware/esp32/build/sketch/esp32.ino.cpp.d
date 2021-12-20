@@ -126,4 +126,5 @@ c:\Users\LTY\Desktop\Bacon65\firmware\esp32\build\sketch\esp32.ino.cpp.o: \
  C:\Users\LTY\AppData\Local\Arduino15\packages\m5stack\hardware\esp32\2.0.0/tools/sdk/esp32/include/hal/include/hal/esp_flash_err.h \
  C:\Users\LTY\AppData\Local\Arduino15\packages\m5stack\hardware\esp32\2.0.0/tools/sdk/esp32/include/spi_flash/include/esp_spi_flash.h \
  C:\Users\LTY\AppData\Local\Arduino15\packages\m5stack\hardware\esp32\2.0.0/tools/sdk/esp32/include/spi_flash/include/esp_spi_flash_counters.h \
- C:\Users\LTY\AppData\Local\Arduino15\packages\m5stack\hardware\esp32\2.0.0\variants\m5stick_c/pins_arduino.h
+ C:\Users\LTY\AppData\Local\Arduino15\packages\m5stack\hardware\esp32\2.0.0\variants\m5stick_c/pins_arduino.h \
+ c:\Users\LTY\Desktop\Bacon65\firmware\esp32\build\sketch\uart_bridge.h

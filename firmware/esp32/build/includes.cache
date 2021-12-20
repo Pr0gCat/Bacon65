@@ -13,5 +13,10 @@
     "Sourcefile": "c:\\Users\\LTY\\Desktop\\Bacon65\\firmware\\esp32\\build\\sketch\\esp32.ino.cpp",
     "Include": "",
     "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\LTY\\Desktop\\Bacon65\\firmware\\esp32\\build\\sketch\\uart_bridge.cpp",
+    "Include": "",
+    "Includepath": null
   }
 ]

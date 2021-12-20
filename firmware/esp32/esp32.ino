@@ -1,6 +1,8 @@
+#include "uart_bridge.h"
 
 void setup() {
-	Serial.begin(115200);
+	// start serial communication between the keyboard
+	Serial.begin(BAUD_RATE);
 }
 
 void loop() {
